@@ -1,2 +1,5 @@
 # python--series
-this is my first git repository
+This is my first git repository and i am learning python series.
+<br>
+Auther- Rajab ali
+
